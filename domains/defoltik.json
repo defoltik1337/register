@@ -1,9 +1,11 @@
 {
-  "owner": {
-    "username": "defoltik1337",
-    "email": "d3f4ult1337@mail.ru"
-  },
   "record": {
-    "URL": "https://e-z.bio/d3f0ltik"
+    "NS": [
+      "kira.ns.cloudflare.com",
+      "patryk.ns.cloudflare.com",
+    ]
+    "CNAME": [
+      "e-z.bio/d3f0ltik"
+    ]
   }
 }
